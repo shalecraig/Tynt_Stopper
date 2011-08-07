@@ -1,6 +1,6 @@
 {
   "name": "Tynt Stopper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This prevents Tynt from running on pages that you're on. It's an *annoying* plugin that adds things to your clipboard.",
   "permissions": [
     "tabs", "http://*/*"
