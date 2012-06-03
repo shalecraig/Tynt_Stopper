@@ -1,7 +1,7 @@
 {
   "name": "Tynt Stopper",
-  "version": "1.0.3",
-  "description": "This prevents Tynt from running on pages that you're on. It's an *annoying* plugin that adds things to your clipboard.",
+  "version": "1.0.4",
+  "description": "This plugin prevents Tynt from running on pages that you're on. Tynt adds things to your clipboard when copying text.",
   "permissions": [
     "tabs", "http://*/*"
   ],
